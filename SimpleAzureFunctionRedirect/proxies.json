@@ -8,7 +8,7 @@
           "GET"
         ]
       },
-      "backendUri": "https://wwwkineticfoto.azurewebsites.net/api/SimpleHttpRedirect"
+      "backendUri": "https://localhost/api/SimpleHttpRedirect"
     }
   }
 }
